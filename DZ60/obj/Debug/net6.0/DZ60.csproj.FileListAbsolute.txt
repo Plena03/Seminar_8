@@ -1,0 +1,15 @@
+D:\C#_3\Seminar_8\DZ60\bin\Debug\net6.0\DZ60.exe
+D:\C#_3\Seminar_8\DZ60\bin\Debug\net6.0\DZ60.deps.json
+D:\C#_3\Seminar_8\DZ60\bin\Debug\net6.0\DZ60.runtimeconfig.json
+D:\C#_3\Seminar_8\DZ60\bin\Debug\net6.0\DZ60.dll
+D:\C#_3\Seminar_8\DZ60\bin\Debug\net6.0\DZ60.pdb
+D:\C#_3\Seminar_8\DZ60\obj\Debug\net6.0\DZ60.csproj.AssemblyReference.cache
+D:\C#_3\Seminar_8\DZ60\obj\Debug\net6.0\DZ60.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_3\Seminar_8\DZ60\obj\Debug\net6.0\DZ60.AssemblyInfoInputs.cache
+D:\C#_3\Seminar_8\DZ60\obj\Debug\net6.0\DZ60.AssemblyInfo.cs
+D:\C#_3\Seminar_8\DZ60\obj\Debug\net6.0\DZ60.csproj.CoreCompileInputs.cache
+D:\C#_3\Seminar_8\DZ60\obj\Debug\net6.0\DZ60.dll
+D:\C#_3\Seminar_8\DZ60\obj\Debug\net6.0\refint\DZ60.dll
+D:\C#_3\Seminar_8\DZ60\obj\Debug\net6.0\DZ60.pdb
+D:\C#_3\Seminar_8\DZ60\obj\Debug\net6.0\DZ60.genruntimeconfig.cache
+D:\C#_3\Seminar_8\DZ60\obj\Debug\net6.0\ref\DZ60.dll
